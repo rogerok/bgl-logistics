@@ -42,6 +42,7 @@ const Main = () => {
                     transform: "rotate(-45deg)",
                     top: "2px",
                     left: "10px",
+                    fontSize: "20px",
                   }}
                 />
               </TrackLink>
@@ -53,6 +54,7 @@ const Main = () => {
                     transform: "rotate(-45deg)",
                     top: "2px",
                     left: "10px",
+                    fontSize: "20px",
                   }}
                 />
               </SendLink>
