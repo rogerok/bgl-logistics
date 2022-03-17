@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27e77688.css",
+    "main.js": "/static/js/main.d4e07f8c.js",
+    "static/media/main-bg.jpg": "/static/media/main-bg.6bfa0660d3f63c9f749c.jpg",
+    "static/media/logo.svg": "/static/media/logo.f17be96a8f7c89f974b3f78fb650f40d.svg",
+    "static/media/manrope-v11-latin-600.svg": "/static/media/manrope-v11-latin-600.1aeaaf5f0b1f096a55fd.svg",
+    "static/media/manrope-v11-latin-700.svg": "/static/media/manrope-v11-latin-700.ca7d51d16dafac7ef720.svg",
+    "static/media/manrope-v11-latin-regular.svg": "/static/media/manrope-v11-latin-regular.f9f7b8f5159c9e3f0157.svg",
+    "static/media/manrope-v11-latin-600.ttf": "/static/media/manrope-v11-latin-600.f5cb2aeef2200a8e9279.ttf",
+    "static/media/manrope-v11-latin-regular.ttf": "/static/media/manrope-v11-latin-regular.e56f587e587fc0a79940.ttf",
+    "static/media/manrope-v11-latin-700.ttf": "/static/media/manrope-v11-latin-700.d23341fab10dd120aaf8.ttf",
+    "static/media/manrope-v11-latin-700.woff": "/static/media/manrope-v11-latin-700.b348654ddd2c43d03fa0.woff",
+    "static/media/manrope-v11-latin-600.woff": "/static/media/manrope-v11-latin-600.cac678747d9a82497d57.woff",
+    "static/media/manrope-v11-latin-regular.woff": "/static/media/manrope-v11-latin-regular.6dcb2c4eecb0b5771148.woff",
+    "static/media/manrope-v11-latin-600.eot": "/static/media/manrope-v11-latin-600.4ea42ae71f7eeb939881.eot",
+    "static/media/manrope-v11-latin-700.eot": "/static/media/manrope-v11-latin-700.2e604a14c7ae09af819f.eot",
+    "static/media/manrope-v11-latin-regular.eot": "/static/media/manrope-v11-latin-regular.3c1cfeb8a807b42097e9.eot",
+    "static/media/manrope-v11-latin-700.woff2": "/static/media/manrope-v11-latin-700.f52a8c52f1ec67cd11d1.woff2",
+    "static/media/manrope-v11-latin-600.woff2": "/static/media/manrope-v11-latin-600.1368b22f7fee65e15708.woff2",
+    "static/media/manrope-v11-latin-regular.woff2": "/static/media/manrope-v11-latin-regular.363602523b30a223bd42.woff2",
+    "index.html": "/index.html",
+    "main.27e77688.css.map": "/static/css/main.27e77688.css.map",
+    "main.d4e07f8c.js.map": "/static/js/main.d4e07f8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e77688.css",
+    "static/js/main.d4e07f8c.js"
+  ]
+}
