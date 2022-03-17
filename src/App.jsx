@@ -1,16 +1,16 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Layout from "./parts/layout/Layout";
+import Main from "./pages/main/Main";
 import "./App.css";
 
-import logo from "./logo.svg";
 function App() {
   return (
-    <>
-      <Routes>
-        <Route path="/" component={<Layout />}></Route>
-      </Routes>
-    </>
+    <Routes>
+      <Route path="/" element={<Layout />}>
+        <Route index element={<Main />} />
+      </Route>
+    </Routes>
   );
 }
 
